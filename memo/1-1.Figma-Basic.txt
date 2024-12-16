@@ -1,0 +1,29 @@
+1. Figma란?
+=> 
+
+
+2. 피그마 vs 피그잼
+=>
+
+
+3. Team
+3-1. 팀 구성원과 함께 쓰는 공간입니다.
+3-2. Team 안에 Project가 존재하고 Project 안에 Team이 존재합니다.
+
+
+4. Draft
+4-1. 초안을 작성하는 개인적인 공간입니다.
+4-2. Draft에서 Move to trash를 클릭하면 해당 피그마는 Trash 공간에 존재합니다.
+
+
+5. 피그마 권한
+5-1. owner
+5-2. admin
+5-3. editor
+5-4. viewer
+
+
+6. 프로젝트 초대하기
+6-1. 프로젝트 홈에서 Share를 클릭하면 can edit, can view를 통해 권한을 설정할 수 있습니다.
+6-2. email을 통해 초대장을 날릴 수 있습니다.
+ 

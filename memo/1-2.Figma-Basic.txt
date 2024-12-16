@@ -1,0 +1,18 @@
+1. Figma mirror
+=> Figma로 구현한 객체를 Web이나 Phone에서 구현할 수 있습니다.
+=> Figma Mirror(web), Figma Mirror(Android=>다운로드)
+
+
+2. Explore Community
+=> 예를 얻거나 초안을 얻을 떄 사용하는 커뮤니티입니다.
+
+
+3. 다른 파일들 불러오기
+3-1. Recents 클릭 후 import 클릭
+3-2. .pig, .sketch/ .pdf는 pigjamm만 가능합니다.
+
+
+4. 오브젝트 불러오기
+4-1. 비트맵 이미지 : .png, .jpg, .gif
+4-2. 백터 이미지 : svg, path
+4-3. 동영상 : .mp4, .mov, .webm
